@@ -1,0 +1,318 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The auction, or, A catalogue of some useful books lately published together with a summary of what is treated of in them.</title>
+            <author>Johnston, Nathaniel, 1627-1705.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70384</idno>
+            <idno type="STC">Wing J873</idno>
+            <idno type="STC">ESTC R1193</idno>
+            <idno type="EEBO-CITATION">07951647</idno>
+            <idno type="OCLC">ocm 07951647</idno>
+            <idno type="VID">40671</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70384)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40671)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 716:33, 1208:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The auction, or, A catalogue of some useful books lately published together with a summary of what is treated of in them.</title>
+                  <author>Johnston, Nathaniel, 1627-1705.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Hardy,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>[1690?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed by Wing to Nathaniel Johnston. Entered as J785 in Wing under Nathaniel Johnson; cancelled in Wing, 2nd. ed. This work not mentioned in DNB article on Johnston.</note>
+                  <note>Caption title and imprint; imprint probably false.</note>
+                  <note>A satirical list of imaginary books.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Imaginary books and libraries --  Bibliography.</term>
+               <term>Catalogs, Book --  Anecdotes</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="publishers_advertisement">
+            <pb n="1" facs="tcp:40671:1" rendition="simple:additions"/>
+            <head>
+               <hi>THE AUCTION: OR,</hi> A Catalogue of ſome uſeful Books, lately Publiſhed, together with a Summary of what is Treated of in them.</head>
+            <head type="sub">Printed for <hi>Robert Hardy,</hi> at his Shop in <hi>Weſtminſter-Hall.</hi>
+            </head>
+            <div type="part">
+               <head>Divinity Books.</head>
+               <list>
+                  <label>The infallible Director of the preſent Beneficed Clergy's Practices.</label>
+                  <item>
+                     <p>AN uſeful and neceſſary Book for this Age; demonſtrating, that <hi>Church-Preferments</hi> more powerfully govern their Actions, and Byaſs their Conſciences, than the Precepts of our Saviour, or the Doctrine of the Apoſtles; or the Antient Fa<g ref="char:EOLhyphen"/>thers Canons, or Conſtitutions of this Church, ſubſcribed and aſ<g ref="char:EOLhyphen"/>ſented to by all the Dignitaries, Parſons, Vicars, and Curates, who have been Beneficed theſe two years laſt paſt.</p>
+                     <p>Sold by <hi>Richard Baldwin,</hi> at the Sign of the Pilgrim.</p>
+                  </item>
+                  <label>The preſent Engliſh Catholick Church.</label>
+                  <item>
+                     <p>A choice Treatiſe proving that the preſent Beneficed Church<g ref="char:EOLhyphen"/>men of <hi>England,</hi> concur not only with the Doctrine of <hi>Calvin, Knox,</hi> and all the late Fanaticks; but even with the Poſit one aſcribed
+<pb n="2" facs="tcp:40671:2"/>to the moſt biggotted Papiſts, and Jeſuits, in the Doctrine of <hi>Re<g ref="char:EOLhyphen"/>ſiſting, Depoſing,</hi> and <hi>Murdering</hi> of Kings, when they conceive them to be Enemies to the Religion they profeſs, or not like to be ſo in<g ref="char:EOLhyphen"/>dulgent to them, as ſome Ambitious Uſurpers pretend to be.</p>
+                     <p>
+                        <hi>Writ by Dr.</hi> Burnt, <hi>to be ſold in the</hi> Palace-Yard, Weſtminſter.</p>
+                  </item>
+                  <label>The Non-Obligation of Oaths.</label>
+                  <item>
+                     <p>An Elaborate Treatiſe, ſhewing that we being obliged by the <hi>Law of Nature</hi> to ſtudy <hi>Self-preſervation,</hi> and taught by the Goſpel, that he who <hi>provides not for his Family is worſe than an Infidel.</hi> There<g ref="char:EOLhyphen"/>fore what-ever Oaths may prejudice us in either of theſe, are <hi>ipſo facto</hi> void. And what-ever Oath ſhall be imposed, to capaciate us to live in a State of freedom from ſuffering, and enable us to live at eaſe, and augment our Eſtates are lawful, ſo long as they produce theſe effects, and no longer; for this <hi>Obedience</hi> is more <gap reason="illegible" resp="#UOM" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>ptable to God, than to <hi>Sacrifice</hi> all our comfortable Importances, out of an obſtinate Opinion, that preceding Oaths, contradictory to any new Ones enjoyned, are obligatory.</p>
+                     <p>Together with an <hi>Appendix</hi> to prove that by the ſame Rule, by which we may diſ-oblige our ſelves from Oaths of State, we may diſſolve all private Contracts, when any preſent inconveniencies ſeem to attend them.</p>
+                     <p>A Diſcourſe worthy the peruſal of all who have digeſted their former Oaths of Allegiance and Supremacy, and ſwallowed the New Ones of Allegiance and Fidelity; and the better to prepare them to take the Oath of Abjuraton; or any other which may be deviſed for the ſecurity of the Government.</p>
+                     <p>
+                        <hi>Sold by</hi> Algernon Braye <hi>at the Sign of the</hi> White Dog <hi>with the</hi> Blue Collar.</p>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Books of Policy and Government.</head>
+               <list>
+                  <label>The right uſe of Parliaments, after the Modern way in ſome Countries</label>
+                  <item>
+                     <p>Or, a Demonſtration that a King who hath a well Officer'd and Penſion'd Parliament, can never want what-ever Supplies he ſhall de<g ref="char:EOLhyphen"/>mand, and that none ever had the true Art of King-craft, who at<g ref="char:EOLhyphen"/>tained not to that perſection, ſhewing that the Laws owning the King to have the Authority of making Peace or War, ſhould be <hi>de<g ref="char:EOLhyphen"/>ſicilin</hi> if: he had not <hi>full and ſole</hi> Power to ſettle the ſame, which can
+<pb n="3" facs="tcp:40671:2"/>never be done without a Ductile and Complying Parliament; and that there is no ſuch effectual way to render them ſuch, as by eſta<g ref="char:EOLhyphen"/>bliſhing their abſolute dependance upon him; whereby they may find their own account in Honour and Profit by ſerving him. Be<g ref="char:EOLhyphen"/>lides that, it is abſurd, a King ſhould be owned to be Head of the Church and State in the Politick Capacity, and want the like in<g ref="char:EOLhyphen"/>ſluence, the Head, in the Natural Body, hath over the Members: Such an Head being but an empty Scull, fill'd with a pulp of Sladge inſtead of Brains, With a <hi>Corrolary</hi> proving that it is but a Fea<g ref="char:EOLhyphen"/>ther in ſuch a King's Cap, and an empty Title to ſtile him <hi>Sovereign,</hi> who is not in reality <hi>ſo,</hi> over the Collective Repreſentative of the People in Parliament, as well as over the Diffuſive Body of them, in Citles and Villages.</p>
+                     <p>
+                        <hi>Printed by</hi> Charles Bill, <hi>and</hi> Tho. Newcomb, <hi>their Majeſties Prin<g ref="char:EOLhyphen"/>ters, for the uſe of the Lord Almoner, and the Clerks of Parliamont.</hi>
+                     </p>
+                  </item>
+                  <label>The preſent Biſhops the ſureſt Courtiers.</label>
+                  <item>
+                     <p>A Treatiſe writ by the Prolecutor of that Order, to prove the neceſſity of a King's preſerving that Hierarchy, rather than Presby<g ref="char:EOLhyphen"/>tery, according to the old Maxime, <hi>no Biſhop, no King.</hi> With an <hi>Appendix</hi> deducing, by particular inſtances in all their Votes, how ſteadily the undepriv'd Biſhops, ſcarce two excepted, perſue the Directions tranſmitted from the Court, however directly oppoſite to their formerly avowed Principles, Preachings, and Practites: To which is added, by way of <hi>Advice,</hi> that the Honourable Mem<g ref="char:EOLhyphen"/>bers of the Houſe of Commens, who chanced to be over-voted in the Bill for preventing <hi>Penſioners</hi> and <hi>Officers</hi> for the future, have a cane to ſhew their utmoſt Gratitude to the Right Reverends, who by their Dead Weight caſt the Scales, and reſtated the Commons in a future Capacity to ſerve their Betters and themſelves.</p>
+                     <p>together with a ſerious <hi>Berſurſive</hi> to all the people, who own them to be their Guides, and Heads of their Commonion, to ſollow their Examples and not their Printed Books, which have declared their contrary Judgments, either before or ſince their being choſen into the Order.</p>
+                     <p>
+                        <hi>Writchy a Rever and</hi> Count Palatine, <hi>to be ſold by</hi> Nathanael Do<g ref="char:EOLhyphen"/>little, <hi>at the Sign of the</hi> Orange tawny Mitre.</p>
+                  </item>
+                  <label>Five to One are odds at <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>.</label>
+                  <item>
+                     <p>Or, a ſeaſonable Treatiſe, wherein is attempted to be prov'd;
+<pb n="4" facs="tcp:40671:3"/>that Lords, ought to yield to Knights, Knights to Eſquires, Eſ<g ref="char:EOLhyphen"/>quires to Gentlemen, Gentlemen to Yeomon, becauſe they are more Numerous, and are ſure to have the advantage at Club Law.</p>
+                     <p>Together with ſome uſeful <hi>Admonitions,</hi> that ſmaller Numbers never conteſt with the greater for Privileges; but rather tamely ſubmit to ſuch as by their ſpecial Grace and Favour they will allow them.</p>
+                     <p>With a <hi>Memento</hi> not to forget when the Supreme Authority Voted the Lord's Houſe Uſeleſs and Dangerous.</p>
+                     <p>To which is ſubjoin'd an <hi>Encomium</hi> of thoſe Self dying Lords, who will rather chooſe to forego their Ancient Privileges, than obſtruct Supplies, eſpecially when they may go ſharers in them.</p>
+                     <p>As alſo a <hi>Premonition</hi> to ſeveral Honourable Commons to be pre<g ref="char:EOLhyphen"/>paring themſelves againſt the next Seſſion to repeal the Act for Annual Seſſions and Trienaial Diſſolutions of Parliaments, and particularly of this preſent one, leſt they ſhould looſe the plentiful Perquiſites, which Members of late ſuper-anuuated Parliaments have been accuſtomed to enjoy, if the King ſhall be prevailed with to paſs it.</p>
+                     <p>
+                        <hi>Compoſed for Sir</hi> Humphrey Lackland, <hi>for the uſe of his Fraternity.</hi>
+                     </p>
+                     <p>
+                        <hi>Printed by</hi> Thomas Braddyl, <hi>in the</hi> New Palace-Yard.</p>
+                  </item>
+                  <label>Good Witts Jump.</label>
+                  <item>
+                     <p>Or, a Dialogue betwixt a Member of the Rump Parliament and the late Convention, proving that the ſame Principles, Laws, and Counſels, govern'd the late, which did the former; and that the late Revolution was eſtabliſhed upon the very ſame Foundation; and that there neither are nor can be any Reaſons or Arguments pro<g ref="char:EOLhyphen"/>duced, to maintain the one, which do not equally prove the lega<g ref="char:EOLhyphen"/>lity of the Proceedings of that black Parliament.</p>
+                     <p>With a <hi>Tranſition</hi> to prove the abſurdity of obſerving the Anni<g ref="char:EOLhyphen"/>verſary, on the Thirtieth of <hi>January,</hi> unleſs we will own the Cha<g ref="char:EOLhyphen"/>racter given our Saviour of thoſe who <hi>kill'd the Prophets, and built or beautified their Sepulchres.</hi>
+                     </p>
+                     <p>And that inſtead of celebrating the Fifth of <hi>November,</hi> for the preſervation of King <hi>James</hi> the Firſt, his Royal Family, and the Two Houſes of Parliament, from the Gun powder Treaſon; we ſhould now obſerve it more religiouſly than ever, upon a new Ac<g ref="char:EOLhyphen"/>count, <hi>viz.</hi> for the arrival of the High and Mighty Prince, who forced from his Throne the Grandſon of that King, for whoſe deli<g ref="char:EOLhyphen"/>verance the Anniverſary hath been kept about 70 years: And that
+<pb n="5" facs="tcp:40671:3"/>we ought to make a double Feſtival, by joining to it the Fourth of <hi>November,</hi> in memory of a Prince's Birth day, who hath ſo wonder, fully changed the Hereditary Monarchy of <hi>England</hi> to an Elective; and may, in time, either make the Government of theſe Realins, ex<g ref="char:EOLhyphen"/>quifitely conformable to that of the <hi>Seven <g ref="char:V">Ʋ</g>nited Provinces,</hi> or reduce them to a conformity with his Rulenere.</p>
+                     <p>Together with many ſolid Arguments to prove, that the Solem<g ref="char:EOLhyphen"/>nity of the Reſtauration of King <hi>Charles</hi> the Second, celebrated on the 29th of <hi>May,</hi> ought by Act of Parliament for ever to be abo<g ref="char:EOLhyphen"/>liſhed, and the 13th of <hi>February</hi> be ſubſtituted in its place; being the day of the Proclamation of a greater Deliverer of this Nation than that King ever was, by reſtoring us to the Happy Eſtate, our ſelves or Anceſtors enjoyed under the Long-Parliament, and <hi>Oliver</hi> Lord Protector.</p>
+                     <p>
+                        <hi>Writ by</hi> Will. Prynn <hi>the Younger, to be ſold at</hi> Aaron Smith<hi>'s, at the Sign of the</hi> New Exchange.</p>
+                  </item>
+                  <label>The Sovereign Power of <hi>Mobbiſm</hi> ſupported by <hi>Hobbiſm</hi> and <hi>Sherlociſm.</hi>
+                  </label>
+                  <item>
+                     <p>A Learned Work, proving that the Common People, are the Ori<g ref="char:EOLhyphen"/>ginal Diſpenſers of all Power; for that thoſe who are enabled to advance a <hi>Captain Tom,</hi> may appoint a <hi>King Thomas, Oliver, Richard</hi> or <hi>Anthony.</hi>
+                     </p>
+                     <p>With a Critical <hi>Demonſtration</hi> by the <hi>Rule of Conſequences,</hi> that whoever hath the dexterity to manage this great <hi>Bucephalus,</hi> ſo that he can mount him, ſhall never want Divines to prove them Supreme Providential Rulers, nor <hi>Hobbiſts</hi> to prove they ought to be ſubmit<g ref="char:EOLhyphen"/>ted to and obeyed.</p>
+                     <p>With a digreſſion ſhewing how eaſily the Magiſtrates of <hi>Holland, Zealand,</hi> and the other Provinces were changed, or <hi>de Wisted,</hi> while the Mobb eſpouſed the Intereſt of the Stadtholder: But now at <hi>Ter<g ref="char:EOLhyphen"/>gow,</hi> though the Stadtholder had power to baniſh the Magiſtrates, yet he had not the concurrence of the People, who gave all the marks poſſible of their affection to the old Magiſtrates.</p>
+                     <p>
+                        <hi>Writ by</hi> James Godliman; <hi>dedicated to the late Duke of</hi> Schomberg; <hi>and printed by</hi> Watt Tyler <hi>at the Sign of</hi> John <hi>of</hi> Leyden.</p>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Books of War and Military Affairs.</head>
+               <list>
+                  <label>An infallible Device never to want Souldiers.</label>
+                  <item>
+                     <p>A ſerious <hi>Diſcourſe,</hi> demonſtrating that the laying inſupportable <hi>Taxes</hi> and <hi>Impoſitions</hi> upon the Subjects, and not providing for the ſecurity of <hi>Trade,</hi> is a ſure way to bring a Country to ſuch <hi>Poverty,</hi>
+                        <pb n="6" facs="tcp:40671:4"/>that the Houſe keepers will not be able to maintain their Sons, and Servants, nor Trade ſmart their Apprentices and Journey men where<g ref="char:EOLhyphen"/>by the young Men can have no means of ſubſiſtence, but by liſting themſelves to be Souldiers; So that the want of Bread at home, en<g ref="char:EOLhyphen"/>creaſeth the Nurſeries of War.</p>
+                     <p>An <hi>Eſſay,</hi> begun four years ſince and the Author finding it yearly experienced to be true, hath been prevailed with to make it <hi>publick;</hi> and dedicates it to the <hi>honorable Committee <gap reason="illegible" resp="#UOM" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> referred for the more effectual raiſing of Seamen and Soldiers for their Majeſties Navy and Army: Sold <gap reason="illegible" resp="#UOM" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> Village in</hi> England.</p>
+                  </item>
+                  <label>The new Project of Kidnapping L<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd-Soldiers.</label>
+                  <item>
+                     <p>A brief <hi>Diſcourſe,</hi> illuſtrating the lateſt method, to ſpirit Men to ſerve; by impreſſing them for <hi>Sea-ſervice,</hi> which the Law allows, and lodging them more ſafely than honourably in the <hi>Tower</hi> of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> of Goals in the Country, and then telling them that they look not like Men acquainted with <hi>Sea-ſervice,</hi> therefore, if they like it, they may be imployed for <hi>Land,</hi> under worthy Officers who will take great care, that they be well cloathed and paid, either for Ser<g ref="char:EOLhyphen"/>vice here, or in <hi>Flanders;</hi> and ſo allowing ſuch <hi>
+                           <gap reason="illegible" resp="#UOM" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap>, Plab<g ref="char:EOLhyphen"/>ſon</hi>'s <hi>Choice,</hi> and having ſaltned a Shi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ing in their Fiſts, their Ser<g ref="char:EOLhyphen"/>vice is transferred from Sea to Land.</p>
+                     <p>
+                        <hi>Dedicated to all Pretenders to the Liberty of the Subject, by proving that an even Exchange is no Robbery.</hi>
+                     </p>
+                  </item>
+                  <label>Expectancy better than Fruition.</label>
+                  <item>
+                     <p>An ingenious <hi>Tract,</hi> proving that allowing Souldiers bare Sub<g ref="char:EOLhyphen"/>ſiſtence, and never clearing Arrears, though Money is plentifully granted to diſcharge both, is <gap reason="illegible" resp="#UOM" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> way to keep them in the Service of the Government, leaſt if they ſhould be <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> off, they ſhould deſert. A no where practiſed <gap reason="illegible" resp="#UOM" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>.</p>
+                     <p>With <gap reason="illegible" resp="#UOM" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> how the Officers have this defect in ſome meaſure ſupply <gap reason="illegible" resp="#UOM" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> the ſubſiſtance Money to their own Pock<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> for five or ſix Months together, for all ſuch as have died by Diſeaſes <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> ſtaid <gap reason="illegible" resp="#UOM" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> provided they can compleat their Number againſt the beginning of the next.</p>
+                     <p>
+                        <hi>Tranſlated out of the Dutch <gap reason="illegible" resp="#UOM" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> and Printed for the Conſolation of indigent Officers and Soldiers; recommended to the Com<g ref="char:EOLhyphen"/>mittee, to which is referred the Bill to prevent Falſe Muſters, and to pay the Soldiers according to true <gap reason="illegible" resp="#UOM" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> of Effectives Men.</hi> In hope they will find out ſome <hi>expeatem</hi> to encourage Faithful Officers, I caſt if that rigorous-Bill ſhould paſs, they ſhould be forced to throw up their Commiſſions.</p>
+                  </item>
+                  <pb n="7" facs="tcp:40671:4"/>
+                  <label>
+                     <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </label>
+                  <item>
+                     <p>A Paradox, proving by that of Argument that it is a <hi>Maſter<g ref="char:EOLhyphen"/>piece</hi> of Policy, ſtrequently to borrow great Summs from the Citizens of <hi>London,</hi> and to raiſe the Million of Money, by borrowing upon the Fund of 70000 <abbr>
+                           <hi>l.</hi>
+                        </abbr> out of the Exciſe; for that thereby 10000 Fa<g ref="char:EOLhyphen"/>milies are ingaged and faſtned by their Purſo ſtrings to the Govern<g ref="char:EOLhyphen"/>ment.</p>
+                     <p>
+                        <hi>Writ by a</hi> Primſer Miniſter of State, <hi>for his Maſter's inſtruction, and by an add accident procured to be coppied, and now publiſhed for the In<g ref="char:EOLhyphen"/>formation of all whom <gap reason="illegible" resp="#UOM" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> ſold at</hi> Guild hall, <hi>the</hi> Royal Ex<g ref="char:EOLhyphen"/>change, <hi>and</hi> Lumbard-ſtreet.</p>
+                  </item>
+                  <label>Look before you Leap.</label>
+                  <item>
+                     <p>Or, a neceſſary <hi>Caveat</hi> to all who are inclinable to lend Money on the Publick Faith, and eſpecially on the Million-project; that before they part with their <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>, they obtain an Act, not on<g ref="char:EOLhyphen"/>ly to per<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> this Parliament; but that no <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Powers may repeal this Act; or that, ſince ſo many Enſurers are marched oh, that a Committee of Members be appointed to be Enſuters, at ſome<g ref="char:EOLhyphen"/>thing under <hi>Cent. per Cem,</hi> leſt, ſuch <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>calons Servants of the Govern<g ref="char:EOLhyphen"/>ment may want encouragement, or a ſucceeding Crowned Head, or a Supreme Power, may ſtand in as much need of the Fund, as this doth of the Advance Money.</p>
+                     <p>
+                        <hi>Writ by an</hi> Eminent Scholar, <hi>at ſhutting up the Exchequer, to be ſold at all the</hi> Policy Offices <hi>in</hi> London.</p>
+                  </item>
+                  <label>A new Project of Seating Arrears</label>
+                  <item>
+                     <p>That the Officers and Souldiers, diſcount, for the Free Quanter they have had in <hi>Ireland,</hi> and <hi>England,</hi> and for the Arms or Horſes they have loſt, and the Charges of Tranſport Ships. To which is added a <hi>Quore,</hi> Whether the Country ſhall be repaid for Free Quar<g ref="char:EOLhyphen"/>ter, or there ſhall be and <hi>Ballance</hi> in the Publick Accounts, for the Arms, Stores, or Tranſport Ships, if deductions be this made of the Arrears due to the Souldiers? And, Secondly, when they ſhall he paid them</p>
+                     <p>
+                        <hi>Writ by the</hi> Treaſurer of War, <hi>for the uſe of his Clerkes Sold by</hi> Naa<g ref="char:EOLhyphen"/>man Rob-Spitale, <hi>at the Sign of the</hi> Spunge.</p>
+                  </item>
+                  <label>The Magick of Words.</label>
+                  <item>
+                     <p>A Treatiſe wherein is irrefragably proved, that in the Words <hi>Religion Liberty,</hi> and <hi>Property,</hi> there are more powerful <hi>Spells</hi> than ever were invented by the moſt famous <hi>Magicians</hi> of the <hi>Antients:</hi> By a Series of inſtantes ſhowing, that within the compaſs of a Cen<g ref="char:EOLhyphen"/>tury and half of years, theſe three Words have ſlain near a Million of Men, Women, and Children, Great Monarchs have been Mur<g ref="char:EOLhyphen"/>ther'd,
+<pb n="8" facs="tcp:40671:5"/>or dethron'd, Kingdoms C<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>tonized into Common-Wealths, or ſome parts of them have been diſmembred from the reſt; yet like the <hi>Deluſion,</hi> the Devil is ſaid to uſe to Witches, in ſeeming to beſtow Feaſts, Banquets, and immenſe Riches upon them, yet they are found ſtill miſerably poor. So after all the Arts uſed by thoſe who know how rightly to apply theſe Words to put People (in Reality, wan<g ref="char:EOLhyphen"/>ting all theſe) into the murdering Frenzy and Fury, to ſecure them, they never yet produc'd the pretended, or deſirable effect. But the generality of theſe Survi<g ref="char:EOLhyphen"/>vors have been at the upſhot, more <hi>unſettled</hi> in their Religion, more <hi>enſlav'd</hi> in their <hi>Liberties,</hi> and more <hi>endamaged</hi> in their <hi>Propereies</hi> than when the ambitious Magicians rais'd the Tempeſts by the Charms of ſuch Words:</p>
+                     <p>
+                        <hi>Writ by a learned Hiſtoriographer for the uſe of Aſſociators, Agitators, and Covenanters. Printed by</hi> Ezekiel Firebrand <hi>at the Sign of the</hi> Crocadile.</p>
+                  </item>
+                  <label>An Infallible Cure for a Decay'd Memory.</label>
+                  <item>
+                     <p>Or a true Account of a Cure performed upon the 9th of <hi>January</hi> laſt, upon a Right Reverend old <hi>Prelate,</hi> who had ſo perfectly forgot a Meſſage to him of very <hi>Publick Concern,</hi> and ſome remarkable Diſcourſes upon it, that he retain'd no more Memory of it, than he did of what he had done when but Three years old, as he him<g ref="char:EOLhyphen"/>ſelf affirm'd. Yet in the ſpace of one hour, by the good Advice of a charitable Lady who had not a Doit for her pains, he was in a great meaſure reſtor'd to his Memory, and it's hop'd he will every day more and more recover the uſe of it.</p>
+                     <p>To which is added by way of <hi>Supplement</hi> the Reſolution of certain <hi>Queries,</hi> as 1, Whether a treacherous Memory be not not eaſilier cured than <hi>Treacheey in the Memory;</hi> Reſolv'd in the Affirmative. 2. Whether in ſome Caſes <hi>Forgetfulneſs</hi> be not more deſirable than a <hi>Sharp Memory;</hi> the Queſtion being grounded upon the famous Inſtances of ſome, who being cured of deprav'd Imaginations that they were Kings, or Emperors, have lamented all their Life after their being deprived of the Pleaſure of that imaginary Greatneſs, they under that Lunacy enjoyed: Re<g ref="char:EOLhyphen"/>ſolv'd alſo in the Affirmative in certain Caſes.</p>
+                     <p>As. When the Reſtitution of Memory is damagable to any more noble Faculty of the Mind, as when it ſpoils the Will, or Vivacity, or Gaity of the Soul, and fills it with <hi>Horray, Affrightments, ſenſe of Guilt,</hi> and <hi>
+                           <g ref="char:V">Ʋ</g>neaſineſs:</hi> Which may hap<g ref="char:EOLhyphen"/>pen in many Caſes when the <hi>Conſcience</hi> is oritically tend. Upon which the Au<g ref="char:EOLhyphen"/>thor makes very learned Reflections, reſolving the Queſtion in general, that for Men in ſuch Circumſtances, who have no farther regard than to the Pleaſures of this Life, they are in a more deſirable Condition in the want of ſuch a reſtor'd Memory.</p>
+                     <p>But if they have regard to the Condition of their Immortal Souls, they had better have a perfect Memory of all things they ought to repent themſelves of, and to work out their Salvation with <hi>Fear and Trembling,</hi> than to drop with Stupidity into the place appointed for them <hi>tho forget God,</hi> and want the <hi>Teſtimony of a good Conſcience.</hi>
+                     </p>
+                     <p>Writ for the Satisfaction of all thoſe who have forgot their taking the Oaths of Supremacy and Allegiance to the former Race of Kings, or that have been old <hi>Cavaliers,</hi> or received conſiderable <hi>Favours,</hi> or <hi>Riches</hi> from their Sovereigns. <hi>Done by Dr.</hi> P—ce, <hi>Chaplain to General</hi> Monk, <hi>and Author of the Hiſtory of the Reſtoration of King</hi> Charles <hi>the II. and dedicated to all, who being yet li<g ref="char:EOLhyphen"/>ving, were inſtrumental in that Reſtitution, eſpecially ſo the Earl of</hi> B—th <hi>and the Biſhop of</hi> W—ter.</p>
+                  </item>
+               </list>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
